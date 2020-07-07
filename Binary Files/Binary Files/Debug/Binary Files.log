@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Repository\C++ Projects\Binary Files\Binary Files\Source.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Binary Files.vcxproj -> D:\Repository\C++ Projects\Binary Files\Debug\Binary Files.exe
